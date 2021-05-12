@@ -1,3 +1,8 @@
+
+# Setup 
+npx create-react-app redux-in-reactjs
+npm install redux react-redux
+
 # Làm việc với Redux thông qua hooks
 
 - useSelector()
